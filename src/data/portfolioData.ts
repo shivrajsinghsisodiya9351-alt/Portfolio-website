@@ -81,7 +81,7 @@ export const PERSONAL_INFO = {
   resumeUrl: 'https://docs.google.com/document/d/1gqyRp7aqf_xDU7kT_zDUz0h4gHw2bwPp/edit?usp=drive_link&ouid=104450003315982535950&rtpof=true&sd=true',
   
   // Custom profile photo / avatar representation
-  profilePhoto: '/hero_photo.png',
+  profilePhoto: shivrajProfileImg,
   fallbackPhoto: shivrajProfileImg
 };
 
